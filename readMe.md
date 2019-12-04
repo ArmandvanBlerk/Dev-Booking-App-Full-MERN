@@ -11,9 +11,5 @@ instalation instructions:
 your app should welcome you to the loging page.
 1. local auth would be signing in directly and would be directed to the dashboard where you can the make bokings on your acount.
 
-notable bugs:
-1. google oauth is not working due to the protected routes with jwt
-2. facebook not implemented due to jwt
-
-
 link to deployment:
+https://murmuring-sierra-80711.herokuapp.com/login
